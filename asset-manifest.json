@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.dc3c21be.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.b8b3c463.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.b8b3c463.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.7fdaa00c.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.7fdaa00c.js.map",
+    "static/js/2.896ac9c3.chunk.js": "/React-Portfolio/static/js/2.896ac9c3.chunk.js",
+    "static/js/2.896ac9c3.chunk.js.map": "/React-Portfolio/static/js/2.896ac9c3.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.08e3959207898d14004c0779347bf8a4.js": "/React-Portfolio/precache-manifest.08e3959207898d14004c0779347bf8a4.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.dc3c21be.chunk.css.map": "/React-Portfolio/static/css/main.dc3c21be.chunk.css.map",
+    "static/js/2.896ac9c3.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.896ac9c3.chunk.js.LICENSE.txt",
+    "static/media/MERN-logo.png": "/React-Portfolio/static/media/MERN-logo.ceefafc4.png",
+    "static/media/RecipeGen.png": "/React-Portfolio/static/media/RecipeGen.d27d6d7b.png",
+    "static/media/TPF.gif": "/React-Portfolio/static/media/TPF.96f038b1.gif",
+    "static/media/note-taker.png": "/React-Portfolio/static/media/note-taker.27f37cee.png",
+    "static/media/red_bag.png": "/React-Portfolio/static/media/red_bag.17b29196.png",
+    "static/media/resume.jpg": "/React-Portfolio/static/media/resume.842c5064.jpg",
+    "static/media/work-scheduler.png": "/React-Portfolio/static/media/work-scheduler.25fae8f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fdaa00c.js",
+    "static/js/2.896ac9c3.chunk.js",
+    "static/css/main.dc3c21be.chunk.css",
+    "static/js/main.b8b3c463.chunk.js"
+  ]
+}
